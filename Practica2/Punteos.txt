@@ -1,0 +1,7 @@
+Nombre          Movimientos realizados          Tiempo               No. Discos
+Jose Santos                  7                       null             3
+ Nombre          Movimientos realizados          Tiempo               No. Discos
+Jose                  9                       null             3
+ Nombre          Movimientos realizados          Tiempo               No. Discos
+null                  7                       null             3
+ 
